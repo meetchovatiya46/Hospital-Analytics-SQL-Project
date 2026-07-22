@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The Hospital Analytics SQL Project is a relational database project developed using MySQL. It simulates a real-world hospital management system by storing and analyzing information related to patients, doctors, departments, appointments, treatments, billing, medicines, and prescriptions.
+The Hospital Management Analytics SQL project is a relational database project developed using MySQL. It simulates a real-world hospital management system by storing and analyzing information related to patients, doctors, departments, appointments, treatments, billing, medicines, and prescriptions.
 
 The project demonstrates practical SQL skills by solving business-oriented problems using various SQL concepts such as Joins, Aggregate Functions, GROUP BY, HAVING, Subqueries, and Window Functions.
 
@@ -14,7 +14,6 @@ The project demonstrates practical SQL skills by solving business-oriented probl
 - Build relationships using Primary and Foreign Keys
 - Import and manage CSV datasets
 - Perform business analytics using SQL
-- Practice interview-level SQL queries
 - Generate meaningful business insights
 
 ---
