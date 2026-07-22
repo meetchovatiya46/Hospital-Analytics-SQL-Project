@@ -108,7 +108,7 @@ Hospital-Analytics-SQL-Project
 │   └── Hospital_Analytics_Queries.sql
 │
 ├── ER Diagram
-├── Project PPT
+├── Project PDF
 └── README.md
 ```
 
