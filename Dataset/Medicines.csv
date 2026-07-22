@@ -1,0 +1,301 @@
+MedicineID,MedicineName,Manufacturer,UnitPrice
+1,Amoxicillin 1,Lupin,226
+2,Insulin 2,Sanofi,452
+3,Insulin 3,Cipla,961
+4,Amoxicillin 4,Abbott,760
+5,Insulin 5,Novartis,707
+6,Ibuprofen 6,Dr. Reddy's,305
+7,Paracetamol 7,GSK,483
+8,Omeprazole 8,Lupin,154
+9,Ibuprofen 9,Pfizer,136
+10,Insulin 10,Dr. Reddy's,183
+11,Metformin 11,Cipla,479
+12,Insulin 12,Cipla,36
+13,Aspirin 13,Sun Pharma,262
+14,Ibuprofen 14,Sanofi,820
+15,Ibuprofen 15,Dr. Reddy's,559
+16,Ibuprofen 16,Bayer,1482
+17,Ibuprofen 17,Novartis,1415
+18,Ibuprofen 18,GSK,842
+19,Ibuprofen 19,Sanofi,911
+20,Amoxicillin 20,Abbott,1236
+21,Ibuprofen 21,Abbott,608
+22,Insulin 22,Novartis,1102
+23,Paracetamol 23,Cipla,1340
+24,Azithromycin 24,Sanofi,432
+25,Cetirizine 25,Sun Pharma,1288
+26,Insulin 26,Lupin,731
+27,Paracetamol 27,GSK,848
+28,Azithromycin 28,Pfizer,1015
+29,Azithromycin 29,Novartis,198
+30,Azithromycin 30,Lupin,821
+31,Aspirin 31,Dr. Reddy's,1183
+32,Insulin 32,Sanofi,245
+33,Ibuprofen 33,Abbott,741
+34,Ibuprofen 34,Abbott,204
+35,Amoxicillin 35,Sanofi,1348
+36,Azithromycin 36,GSK,128
+37,Paracetamol 37,Sun Pharma,982
+38,Azithromycin 38,Abbott,1230
+39,Vitamin D 39,Bayer,1424
+40,Ibuprofen 40,Pfizer,1258
+41,Aspirin 41,Bayer,458
+42,Omeprazole 42,Sanofi,929
+43,Azithromycin 43,Abbott,724
+44,Amoxicillin 44,Sun Pharma,577
+45,Cetirizine 45,Cipla,1057
+46,Insulin 46,Dr. Reddy's,1496
+47,Paracetamol 47,Dr. Reddy's,713
+48,Paracetamol 48,Sanofi,1024
+49,Azithromycin 49,Sanofi,955
+50,Omeprazole 50,Abbott,400
+51,Insulin 51,Bayer,1470
+52,Metformin 52,Pfizer,575
+53,Paracetamol 53,Novartis,224
+54,Paracetamol 54,Dr. Reddy's,37
+55,Cetirizine 55,Pfizer,537
+56,Metformin 56,Novartis,1346
+57,Ibuprofen 57,Abbott,667
+58,Insulin 58,GSK,1056
+59,Azithromycin 59,Dr. Reddy's,427
+60,Omeprazole 60,Sanofi,751
+61,Aspirin 61,Bayer,1309
+62,Aspirin 62,Abbott,1263
+63,Paracetamol 63,Cipla,797
+64,Ibuprofen 64,Novartis,270
+65,Insulin 65,Novartis,823
+66,Omeprazole 66,Dr. Reddy's,544
+67,Cetirizine 67,Cipla,479
+68,Amoxicillin 68,GSK,727
+69,Cetirizine 69,Lupin,1493
+70,Metformin 70,Sanofi,177
+71,Amoxicillin 71,Bayer,484
+72,Azithromycin 72,GSK,196
+73,Amoxicillin 73,Novartis,1292
+74,Omeprazole 74,Sun Pharma,1017
+75,Ibuprofen 75,Pfizer,1481
+76,Azithromycin 76,Sun Pharma,991
+77,Omeprazole 77,Sun Pharma,655
+78,Amoxicillin 78,Pfizer,1035
+79,Insulin 79,Lupin,1150
+80,Azithromycin 80,Novartis,573
+81,Metformin 81,Abbott,491
+82,Vitamin D 82,Novartis,948
+83,Insulin 83,Sanofi,1302
+84,Aspirin 84,Bayer,1142
+85,Paracetamol 85,Novartis,1452
+86,Cetirizine 86,GSK,858
+87,Insulin 87,Sun Pharma,101
+88,Omeprazole 88,Pfizer,1353
+89,Cetirizine 89,Cipla,1497
+90,Metformin 90,Sun Pharma,126
+91,Amoxicillin 91,Bayer,619
+92,Cetirizine 92,Sun Pharma,1484
+93,Insulin 93,Bayer,293
+94,Amoxicillin 94,Pfizer,1054
+95,Aspirin 95,Abbott,1002
+96,Insulin 96,Abbott,868
+97,Azithromycin 97,Lupin,1259
+98,Cetirizine 98,Novartis,136
+99,Amoxicillin 99,Sun Pharma,371
+100,Ibuprofen 100,Lupin,773
+101,Amoxicillin 101,Dr. Reddy's,626
+102,Omeprazole 102,Sanofi,529
+103,Vitamin D 103,Cipla,1010
+104,Azithromycin 104,Sanofi,1376
+105,Omeprazole 105,Bayer,1453
+106,Ibuprofen 106,Novartis,909
+107,Paracetamol 107,Novartis,251
+108,Cetirizine 108,Pfizer,104
+109,Omeprazole 109,Dr. Reddy's,844
+110,Amoxicillin 110,Sun Pharma,1235
+111,Azithromycin 111,Abbott,1006
+112,Insulin 112,Cipla,724
+113,Aspirin 113,Cipla,257
+114,Omeprazole 114,Sun Pharma,629
+115,Paracetamol 115,Dr. Reddy's,459
+116,Cetirizine 116,Novartis,1407
+117,Aspirin 117,Cipla,931
+118,Insulin 118,Sun Pharma,243
+119,Ibuprofen 119,Novartis,1347
+120,Omeprazole 120,Bayer,178
+121,Amoxicillin 121,Dr. Reddy's,1153
+122,Omeprazole 122,Cipla,457
+123,Cetirizine 123,Dr. Reddy's,1189
+124,Metformin 124,Abbott,298
+125,Metformin 125,Dr. Reddy's,1447
+126,Amoxicillin 126,Dr. Reddy's,1223
+127,Paracetamol 127,GSK,840
+128,Ibuprofen 128,Lupin,1390
+129,Ibuprofen 129,Sanofi,259
+130,Amoxicillin 130,Cipla,726
+131,Aspirin 131,Dr. Reddy's,435
+132,Amoxicillin 132,Abbott,1183
+133,Aspirin 133,Abbott,737
+134,Amoxicillin 134,Sun Pharma,1122
+135,Paracetamol 135,Lupin,666
+136,Metformin 136,Sanofi,583
+137,Vitamin D 137,Bayer,990
+138,Aspirin 138,Dr. Reddy's,1309
+139,Ibuprofen 139,Bayer,641
+140,Insulin 140,Dr. Reddy's,684
+141,Ibuprofen 141,Pfizer,195
+142,Omeprazole 142,Abbott,1123
+143,Azithromycin 143,Dr. Reddy's,1157
+144,Aspirin 144,Bayer,987
+145,Azithromycin 145,Lupin,1373
+146,Cetirizine 146,Sanofi,1272
+147,Ibuprofen 147,Cipla,1184
+148,Amoxicillin 148,Sanofi,321
+149,Insulin 149,GSK,347
+150,Azithromycin 150,Cipla,889
+151,Cetirizine 151,Sanofi,1067
+152,Metformin 152,Cipla,879
+153,Insulin 153,Sun Pharma,704
+154,Metformin 154,Cipla,854
+155,Vitamin D 155,Novartis,806
+156,Ibuprofen 156,Pfizer,1180
+157,Insulin 157,Abbott,294
+158,Paracetamol 158,Bayer,545
+159,Insulin 159,Lupin,877
+160,Omeprazole 160,Cipla,1280
+161,Cetirizine 161,Pfizer,1070
+162,Aspirin 162,GSK,1201
+163,Metformin 163,Abbott,688
+164,Aspirin 164,GSK,415
+165,Paracetamol 165,Sun Pharma,492
+166,Amoxicillin 166,Sun Pharma,1321
+167,Azithromycin 167,Cipla,481
+168,Metformin 168,Novartis,459
+169,Cetirizine 169,Sanofi,175
+170,Aspirin 170,Sun Pharma,824
+171,Cetirizine 171,Abbott,656
+172,Vitamin D 172,GSK,1165
+173,Paracetamol 173,Dr. Reddy's,366
+174,Insulin 174,Novartis,866
+175,Vitamin D 175,Sun Pharma,159
+176,Insulin 176,Sun Pharma,208
+177,Paracetamol 177,Bayer,928
+178,Ibuprofen 178,Dr. Reddy's,1168
+179,Omeprazole 179,Sanofi,547
+180,Paracetamol 180,Bayer,1360
+181,Metformin 181,Cipla,299
+182,Vitamin D 182,Abbott,329
+183,Omeprazole 183,Novartis,983
+184,Paracetamol 184,Novartis,1401
+185,Cetirizine 185,Abbott,1247
+186,Insulin 186,Bayer,1277
+187,Amoxicillin 187,Cipla,949
+188,Azithromycin 188,GSK,753
+189,Amoxicillin 189,Lupin,762
+190,Metformin 190,Pfizer,464
+191,Ibuprofen 191,Abbott,1261
+192,Vitamin D 192,Abbott,118
+193,Metformin 193,GSK,55
+194,Azithromycin 194,Lupin,921
+195,Insulin 195,Abbott,1159
+196,Azithromycin 196,GSK,101
+197,Insulin 197,Lupin,1001
+198,Amoxicillin 198,GSK,289
+199,Ibuprofen 199,Abbott,395
+200,Azithromycin 200,Novartis,279
+201,Insulin 201,Lupin,208
+202,Cetirizine 202,Cipla,210
+203,Ibuprofen 203,Lupin,183
+204,Vitamin D 204,GSK,476
+205,Metformin 205,Pfizer,1070
+206,Omeprazole 206,Lupin,1117
+207,Omeprazole 207,Dr. Reddy's,330
+208,Ibuprofen 208,Abbott,248
+209,Vitamin D 209,Pfizer,1426
+210,Metformin 210,Novartis,1224
+211,Azithromycin 211,Sanofi,728
+212,Ibuprofen 212,Lupin,344
+213,Paracetamol 213,Abbott,895
+214,Aspirin 214,Cipla,658
+215,Azithromycin 215,Sanofi,1205
+216,Cetirizine 216,Bayer,871
+217,Ibuprofen 217,Sun Pharma,210
+218,Paracetamol 218,Bayer,606
+219,Aspirin 219,GSK,177
+220,Vitamin D 220,Bayer,303
+221,Omeprazole 221,Lupin,865
+222,Ibuprofen 222,Lupin,994
+223,Aspirin 223,Abbott,585
+224,Insulin 224,GSK,1059
+225,Metformin 225,Lupin,1122
+226,Ibuprofen 226,Pfizer,444
+227,Aspirin 227,Pfizer,670
+228,Azithromycin 228,Bayer,1046
+229,Amoxicillin 229,Sanofi,1411
+230,Insulin 230,GSK,660
+231,Metformin 231,Abbott,659
+232,Omeprazole 232,Abbott,1167
+233,Azithromycin 233,Bayer,945
+234,Cetirizine 234,GSK,553
+235,Azithromycin 235,Cipla,1129
+236,Omeprazole 236,Cipla,1008
+237,Paracetamol 237,Sanofi,1313
+238,Paracetamol 238,GSK,1339
+239,Azithromycin 239,Sun Pharma,1105
+240,Metformin 240,Abbott,462
+241,Amoxicillin 241,Cipla,383
+242,Metformin 242,Bayer,1171
+243,Azithromycin 243,Bayer,1154
+244,Omeprazole 244,GSK,616
+245,Ibuprofen 245,Abbott,875
+246,Amoxicillin 246,Lupin,674
+247,Cetirizine 247,GSK,1105
+248,Vitamin D 248,Lupin,613
+249,Metformin 249,Lupin,1463
+250,Insulin 250,Bayer,113
+251,Omeprazole 251,Lupin,311
+252,Omeprazole 252,Dr. Reddy's,1391
+253,Insulin 253,Sanofi,333
+254,Vitamin D 254,Sanofi,993
+255,Vitamin D 255,Lupin,1469
+256,Vitamin D 256,Novartis,295
+257,Amoxicillin 257,Bayer,296
+258,Insulin 258,Sun Pharma,24
+259,Paracetamol 259,Dr. Reddy's,415
+260,Insulin 260,Cipla,998
+261,Omeprazole 261,Novartis,1239
+262,Aspirin 262,Pfizer,888
+263,Azithromycin 263,Novartis,960
+264,Omeprazole 264,Dr. Reddy's,837
+265,Azithromycin 265,Cipla,287
+266,Aspirin 266,Dr. Reddy's,775
+267,Metformin 267,Lupin,96
+268,Aspirin 268,Novartis,138
+269,Amoxicillin 269,Lupin,1169
+270,Insulin 270,Abbott,888
+271,Cetirizine 271,Sun Pharma,1117
+272,Metformin 272,Sanofi,319
+273,Omeprazole 273,Novartis,1417
+274,Insulin 274,Bayer,1346
+275,Amoxicillin 275,Dr. Reddy's,1035
+276,Insulin 276,Lupin,780
+277,Paracetamol 277,Novartis,1318
+278,Insulin 278,Sun Pharma,326
+279,Omeprazole 279,GSK,634
+280,Azithromycin 280,Abbott,342
+281,Cetirizine 281,Bayer,370
+282,Cetirizine 282,Lupin,1137
+283,Insulin 283,Sanofi,685
+284,Vitamin D 284,Cipla,1009
+285,Cetirizine 285,Lupin,332
+286,Azithromycin 286,Sanofi,540
+287,Vitamin D 287,Pfizer,410
+288,Cetirizine 288,Abbott,1072
+289,Vitamin D 289,Sun Pharma,591
+290,Ibuprofen 290,Sanofi,958
+291,Cetirizine 291,Abbott,177
+292,Paracetamol 292,Sun Pharma,926
+293,Paracetamol 293,Dr. Reddy's,1354
+294,Amoxicillin 294,Abbott,589
+295,Cetirizine 295,Abbott,772
+296,Cetirizine 296,GSK,513
+297,Omeprazole 297,Lupin,238
+298,Amoxicillin 298,Sun Pharma,1316
+299,Vitamin D 299,GSK,1207
+300,Amoxicillin 300,Sun Pharma,1036
